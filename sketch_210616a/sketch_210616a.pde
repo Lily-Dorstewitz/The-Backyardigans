@@ -1,7 +1,7 @@
 void setup() {
   String myBirthMonth = "October";
   int mops;
-  String melsRaccoon;
+  String melsRaccoonisprettycool;
   int yoyoyo whatup whatup whatup;
   int IWantIceCream;
  
